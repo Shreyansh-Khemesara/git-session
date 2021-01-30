@@ -1,1 +1,2 @@
 hello it is my first git file uploading by push and comit
+this is edited here on the git hub bro
